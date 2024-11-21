@@ -4,37 +4,47 @@
   <summary>ENUNCIADO DE LOS EJERCICIOS: </summary>
   <p style="font-size: 12px; line-height: 1.4;">
 <details>
-  <summary>EJ1</summary>
+  <summary>TIT.enun1</summary>
   <p style="font-size: 12px; line-height: 1.4;">
 
-EJ 1
+ENUNCIADO
 
 </p>
 
 </details>
 <details>
-  <summary>EJ2</summary>
+  <summary>TIT.enun2</summary>
   <p style="font-size: 12px; line-height: 1.4;">
 
-EJ 2
+ENUNCIADO
 
 </p>
 
 </details>
 <details>
-  <summary>EJ3</summary>
+  <summary>TIT.enun3</summary>
   <p style="font-size: 12px; line-height: 1.4;">
 
-EJ 3
+ENUNCIADO
 
 </p>
 
 </details>
 <details>
-  <summary>EJ4</summary>
+  <summary>TIT.enun4</summary>
   <p style="font-size: 12px; line-height: 1.4;">
 
-EJ 4
+ENUNCIADO
+
+</p>
+
+</details>
+
+<details>
+  <summary>TIT.enun5</summary>
+  <p style="font-size: 12px; line-height: 1.4;">
+
+ENUNCIADO
 
 </p>
 
