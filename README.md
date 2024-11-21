@@ -44,7 +44,7 @@ EJ 4
   <summary>LINK DEL REPOSITORIO:</summary>
   <p style="font-size: 12px; line-height: 1.4;">
 
-  [Repositorio GitHub](https://github.com/Maaaikol/README.git)
+  [Repositorio GitHub](https://github.com/Maaaikol/ESTRUCTURA-README-EJ.git)
 
 </p>
 
