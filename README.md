@@ -51,6 +51,33 @@ ENUNCIADO
 </details>
 </details>
 <details>
+  <summary>PROPUESTA DE SOLUCIÓN: </summary>
+  <p style="font-size: 12px; line-height: 1.4;">
+
+  ````
+1. 
+````
+
+  ````
+2. 
+````
+
+  ````
+3. 
+````
+
+  ````
+4. 
+````
+
+  ````
+5. 
+````
+
+</p>
+</details>
+
+<details>
   <summary>LINK DEL REPOSITORIO:</summary>
   <p style="font-size: 12px; line-height: 1.4;">
 
